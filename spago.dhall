@@ -16,6 +16,7 @@ You can edit this file as you like.
   , "web-html"
   ]
 , repo = "https://github.com/solarliner/purescript-p5.git"
+, version = "0.0.1-dev"
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
 }
